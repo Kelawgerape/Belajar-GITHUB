@@ -4,6 +4,5 @@ commit
 branch
 merge
 clone
-conflict
 pull
 push
