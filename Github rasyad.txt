@@ -1,0 +1,4 @@
+untuk belajar github harus mengetahui beberapa terminologi berikut repository commit
+repository
+commit
+brench
